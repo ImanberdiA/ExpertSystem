@@ -1,0 +1,6 @@
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\bin\Debug\ProductionSystem.dll
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\bin\Debug\ProductionSystem.pdb
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\obj\Debug\ProductionSystem.csprojAssemblyReference.cache
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\obj\Debug\ProductionSystem.csproj.CoreCompileInputs.cache
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\obj\Debug\ProductionSystem.dll
+C:\Users\ALIK\Desktop\ExpertSystems-master\src\ExpertSystems\ProductionSystem\obj\Debug\ProductionSystem.pdb
